@@ -1,0 +1,10 @@
+main: net.seliba.protectiveshield.ProtectiveShield
+name: ProtectiveShield
+version: '1.0'
+api-version: '1.16'
+author: Seliba
+
+commands:
+  schutzschild:
+    permission: schutzschild.use
+    description: Werde geschützt vor bösen Leuten
